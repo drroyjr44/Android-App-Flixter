@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Flixter</string>
+    <string name="textview">TextView</string>
+    <string name="fast_and_furious_another_one">Fast and FUrious Another ONE</string>
+    <string name="todo">TODO</string>
+</resources>
